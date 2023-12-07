@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pemberdayaan Masyarakat", "Pemberdayaan Masyarakat\Pemberdayaan Masyarakat.vbproj", "{788AAA24-EBF1-4832-ADB1-20EB64EAB48C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SIPEM", "SIPEM\SIPEM.vdproj", "{F4ABE6CF-4576-46BC-9147-20654997A2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788AAA24-EBF1-4832-ADB1-20EB64EAB48C}.Debug|x86.ActiveCfg = Debug|x86
+		{788AAA24-EBF1-4832-ADB1-20EB64EAB48C}.Debug|x86.Build.0 = Debug|x86
+		{788AAA24-EBF1-4832-ADB1-20EB64EAB48C}.Release|x86.ActiveCfg = Release|x86
+		{788AAA24-EBF1-4832-ADB1-20EB64EAB48C}.Release|x86.Build.0 = Release|x86
+		{F4ABE6CF-4576-46BC-9147-20654997A2DB}.Debug|x86.ActiveCfg = Debug
+		{F4ABE6CF-4576-46BC-9147-20654997A2DB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47215038-8829-442E-A550-3A74463FB46D}
+	EndGlobalSection
+EndGlobal

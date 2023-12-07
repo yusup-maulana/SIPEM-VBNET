@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pemberdayaan Masyarakat
+</name>
+</assembly>
+<members>
+<member name="T:Pemberdayaan_Masyarakat.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Pemberdayaan_Masyarakat.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Pemberdayaan_Masyarakat.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Pemberdayaan_Masyarakat.loading.ShowProgress(System.Windows.Forms.Form)">
+ <summary>
+ Creates a new loading and displays it to the user
+ </summary>
+ <param name="parentForm">The form from which this method is being called</param>
+ <returns>A loading object whose UpdateProgress method can be used to display progress to the user</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Pemberdayaan_Masyarakat.loading.CloseProgress">
+ <summary>
+ Closes the loading - Be sure to call CloseProgress() when finished with this loading instance
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Pemberdayaan_Masyarakat.loading.UpdateProgress(System.Int32,System.String)">
+ <summary>
+ Updates the progress bar value and/or status text
+ </summary>
+ <param name="progressPercent">A value from 0 to 100 representing the precentage complete</param>
+ <param name="statusText">Any status text to accompany the progressbar</param>
+ <remarks></remarks>
+</member>
+<member name="M:Pemberdayaan_Masyarakat.Module_menu.kelurahan_btn_status_pengajuan_new">
+ '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''KELURAHAN
+</member>
+</members>
+</doc>
